@@ -1,0 +1,6 @@
+D:\StudyAndDoc\I-II  course & OOP\Программирование 2015-2016\Лабораторная работа МАТРИЦЫ\workWithArray\bin\Debug\workWithArray.exe.config
+D:\StudyAndDoc\I-II  course & OOP\Программирование 2015-2016\Лабораторная работа МАТРИЦЫ\workWithArray\bin\Debug\workWithArray.exe
+D:\StudyAndDoc\I-II  course & OOP\Программирование 2015-2016\Лабораторная работа МАТРИЦЫ\workWithArray\bin\Debug\workWithArray.pdb
+D:\StudyAndDoc\I-II  course & OOP\Программирование 2015-2016\Лабораторная работа МАТРИЦЫ\workWithArray\obj\Debug\workWithArray.csprojResolveAssemblyReference.cache
+D:\StudyAndDoc\I-II  course & OOP\Программирование 2015-2016\Лабораторная работа МАТРИЦЫ\workWithArray\obj\Debug\workWithArray.exe
+D:\StudyAndDoc\I-II  course & OOP\Программирование 2015-2016\Лабораторная работа МАТРИЦЫ\workWithArray\obj\Debug\workWithArray.pdb
